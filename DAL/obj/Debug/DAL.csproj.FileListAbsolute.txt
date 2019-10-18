@@ -1,0 +1,7 @@
+c:\users\hp\documents\visual studio 2015\Projects\CustomerHelpDeskManagement\DAL\bin\Debug\DAL.dll
+c:\users\hp\documents\visual studio 2015\Projects\CustomerHelpDeskManagement\DAL\bin\Debug\DAL.pdb
+c:\users\hp\documents\visual studio 2015\Projects\CustomerHelpDeskManagement\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\CustomerHelpDeskManagement\DAL\obj\Debug\DAL.dll
+c:\users\hp\documents\visual studio 2015\Projects\CustomerHelpDeskManagement\DAL\obj\Debug\DAL.pdb
+c:\users\hp\documents\visual studio 2015\Projects\CustomerHelpDeskManagement\DAL\bin\Debug\BO.dll
+c:\users\hp\documents\visual studio 2015\Projects\CustomerHelpDeskManagement\DAL\bin\Debug\BO.pdb

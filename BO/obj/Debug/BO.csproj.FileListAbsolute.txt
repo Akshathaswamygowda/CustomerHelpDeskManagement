@@ -1,0 +1,5 @@
+c:\users\hp\documents\visual studio 2015\Projects\CustomerHelpDeskManagement\BO\bin\Debug\BO.dll
+c:\users\hp\documents\visual studio 2015\Projects\CustomerHelpDeskManagement\BO\bin\Debug\BO.pdb
+c:\users\hp\documents\visual studio 2015\Projects\CustomerHelpDeskManagement\BO\obj\Debug\BO.dll
+c:\users\hp\documents\visual studio 2015\Projects\CustomerHelpDeskManagement\BO\obj\Debug\BO.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\CustomerHelpDeskManagement\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
